@@ -31,6 +31,14 @@
     $ sudo cp /etc/mecabrc /usr/local/etc/
     ```
 
+1. pyenvを最新化する
+
+    ```
+    $ cd ~
+    $ cd .pyenv
+    $ git pull
+    ```
+
 1. リポジトリをクローンする
 
     ```
